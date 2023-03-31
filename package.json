@@ -6,6 +6,9 @@
   "bin": {
     "wtfjs": "index.mjs"
   },
+  "files": [
+    "index.mjs"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tianheg/wtfjs.git"
